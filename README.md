@@ -1,2 +1,3 @@
 # GridBuildingSystem
- Automatic/Manual Filling System with ScriptableObjects
+WORK IN PROGRESS
+Automatic/Manual Filling System with ScriptableObjects
